@@ -1,0 +1,2 @@
+Example usage:
+python3 ./fetch-publication-info.py --input ../Guidelines_Root_Sample.csv --config ../conf/conf.json --output ./publication_info.tsv
